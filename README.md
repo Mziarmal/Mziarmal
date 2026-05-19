@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t0a2x0Z2V0b2Z2Z3R1bW1pZ3R2eGx3dGZqZ2Z0bW1qZ2Z3eWZ6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Matiullah</h1>
+<h1 align="center">Hi 👋, I'm Matiullah Ziarmal</h1>
 
 <p align="center">
   💻 Computer Science Student | 🚀 Django Developer | 🤖 Future AI Engineer
